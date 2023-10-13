@@ -28,7 +28,7 @@
                 "happiness": 3,
                 "requiredTech": "Theology",
                 "cost": 99999,
-                "uniques": ["Unbuildable","Can be purchased for [500] [Faith] [in all cities]"],
+                "uniques": ["Unbuildable","Can be purchased for [700] [Faith] [in all cities]"],
         },
         {
                 "name": "Mechanized Toilet",
