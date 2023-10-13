@@ -49,11 +49,16 @@
                 "name": "The Toilet Contest",
                 "cost": 250,
                 "requiredTech": "Civil Service",
-                "uniques": ["Triggers victory <with [5]% chance> <if [Simple Toilet] is constructed>",
-                        "Triggers victory <with [25]% chance> <if [Golden Toilet] is constructed>",
-                        "Triggers victory <with [25]% chance> <if [Floral Toilet] is constructed>",
-                "Triggers victory <with [15]% chance> <if [God of Toilet] is constructed>",
-                "Triggers victory <with [20]% chance> <if [Mechanized Toilet] is constructed>",
-                "Triggers victory <with [10]% chance> <if [Washlet Toilet] is constructed>"],
+                "uniques": ["Provides a [Winner's Toilet] in your first [1] cities for free <with [5]% chance> <if [Simple Toilet] is constructed>",
+                        "Provides a [Winner's Toilet] in your first [1] cities for free <with [25]% chance> <if [Golden Toilet] is constructed>",
+                        "Provides a [Winner's Toilet] in your first [1] cities for free <with [25]% chance> <if [Floral Toilet] is constructed>",
+                "Provides a [Winner's Toilet] in your first [1] cities for free <with [15]% chance> <if [God of Toilet] is constructed>",
+                "Provides a [Winner's Toilet] in your first [1] cities for free <with [20]% chance> <if [Mechanized Toilet] is constructed>",
+                "Provides a [Winner's Toilet] in your first [1] cities for free <with [10]% chance> <if [Washlet Toilet] is constructed>"],
+        },
+        {
+                "name": "Winner's Toilet",
+                "cost": 1,
+                "uniques": ["Unbuildable"]
         },
 ]
